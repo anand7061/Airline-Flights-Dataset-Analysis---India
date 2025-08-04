@@ -2,6 +2,11 @@
 
 This project performs a detailed analysis of a real-world dataset containing flight booking information between various Indian cities. The dataset includes features such as airline, source and destination cities, departure and arrival times, number of stops, seat class, flight duration, days left for travel, and ticket price.
 
+## 📓 Jupyter Notebook
+
+You can explore the notebook here:  
+👉 [project1.ipynb](./project1.ipynb)
+
 ## 📊 Objective
 To explore, clean, and analyze flight data using Python libraries like **Pandas**, **Matplotlib**, and **Seaborn** to uncover insights about:
 - Flight delays
